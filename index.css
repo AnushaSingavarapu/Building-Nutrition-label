@@ -11,9 +11,9 @@ body {
 }
 
 .label {
-  border: 2px solid black;
+  border: 2px solid white;
   width: 270px;
-  margin: 20px auto;
+  margin: 30px auto;
   padding: 0 7px;
 }
 
